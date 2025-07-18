@@ -20,13 +20,12 @@ body {
 :root {
     --primary-black: #0a0a0a;
     --primary-silver: #C0C0C0;
-    --primary-bronze: #e8c60e;
+    --primary-bronze: #FDD017;
     --light-silver: #E8E8E8;
     --dark-silver: #A8A8A8;
-    --bronze-light: #e8c60e;
-    --bronze-dark: #e8c60e;
+    --bronze-light: #FDD017;
+    --bronze-dark: #FDD017;
 }
-
 
 /* Container */
 .container {
